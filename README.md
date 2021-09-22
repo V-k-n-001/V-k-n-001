@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V-k-n-001
+- 👋 Hi, I’m Vivek kr nayan
 - 👀 I’m interested in ... To become a good hacker.
 - 🌱 I’m currently learning ...Ethical hacking
 - 💞️ I’m looking to collaborate on ...
