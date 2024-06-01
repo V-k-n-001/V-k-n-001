@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Vivek kr nayan
-- 👀 
-- 🌱 I’m currently learning ... Python and Ethical hacking
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my instagram id-https://www.instagram.com/v_k_n_01/ and my linkdin id-https://www.linkedin.com/feed/........
 
 <!---
